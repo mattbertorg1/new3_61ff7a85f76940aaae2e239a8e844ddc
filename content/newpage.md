@@ -8,4 +8,4 @@ tags:
 - Design
 
 ---
-New page foo
+New page foo bar
